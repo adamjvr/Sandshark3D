@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for Sandshark 3D
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OBDETOOV
 
 [Document8]
 DocumentPath=..\..\Tigershark3D\PCB-Rev2\Libraries\Tigershark3D.PcbLib
@@ -170,7 +170,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUXSQPYU
 
 [Document9]
 DocumentPath=MOSFETs and Driver.SchDoc
@@ -190,7 +190,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MRRNPIBR
 
 [Document10]
-DocumentPath=Sandshark 3D R1.1.PcbDoc
+DocumentPath=Sandshark 3D R1.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -355,7 +355,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Sandshark 3D
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
